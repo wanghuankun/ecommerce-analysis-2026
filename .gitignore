@@ -1,0 +1,10 @@
+# 大文件不入库（可用 src/gen_data.py 重新生成）
+data/orders.csv
+data/users.csv
+data/products.csv
+data/orders.xlsx
+
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
